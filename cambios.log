@@ -1,0 +1,4 @@
+[2022-04-14 15:13:33] [ ERROR] [GlobalExceptions:16] No existe un paciente con el id 7. Ingrese un id válido.
+[2022-04-14 15:13:43] [ ERROR] [GlobalExceptions:22] No se puede registrar el turno porque el paciente o el odontólogo no existen.
+[2022-04-14 20:06:49] [ ERROR] [GlobalExceptions:16] No existe el odontologo con el id 2. Ingrese un id correcto.
+[2022-04-14 21:39:22] [ ERROR] [GlobalExceptions:16] No existe un turno con el id 1. Ingresar un id correcto.
